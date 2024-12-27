@@ -1,5 +1,7 @@
 # Claris Engage 2024
 
+**UPDATE: this app is for a bygone Claris Engage Conference. Maybe it can be revived and improved later, but for now, this project is finished**
+
 This does two things:
 
 1. iCal Generator
@@ -25,6 +27,20 @@ This does two things:
 2. Look at it
 
 ![screens](./screens.jpg)
+
+### Updating session data
+
+1. Open menu in app and click the update button to query the "database" (private github gist)
+2. if available, download updated json
+3. don't worry your registrations won't be lost
+
+### Updating the whole app
+
+1. rename your old file Engage2024old.fmp12 and leave in the same directory
+2. download the new version from github
+3. move the new one to the same directory as the old and open
+4. run the "import registrations from old file" command from menu
+5. check for json updates from the menu.
 
 ## License
 
