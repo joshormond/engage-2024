@@ -1,0 +1,5 @@
+﻿Timestamp	Filename	Error	Message
+2024-02-03 17:52:09.695 -0500	Engage2024.fmp12	0	*** Started consistency check of improperly closed file, total of 1723 block(s) to check
+2024-02-03 17:52:09.702 -0500	Engage2024.fmp12	8432	Page 1723 marked free but not in free list
+2024-02-03 17:52:09.702 -0500	Engage2024.fmp12	0	Reset maximum block sequence number to 1792331
+2024-02-03 17:52:09.702 -0500	Engage2024.fmp12	0	*** Completed consistency check, checked 1723 block(s)
